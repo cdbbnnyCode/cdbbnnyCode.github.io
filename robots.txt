@@ -1,0 +1,11 @@
+# Keep robots from indexing the pages
+
+User-agent: *
+Disallow: /ftc8813/pages/
+Disallow: /ftc8813/assets/social_icons/
+Disallow: /ftc8813/assets/js/
+Disallow: /ftc8813/assets/stylesheets/
+Disallow: /ftc8813/materialize/
+Disallow: /ftc8813/.gitignore
+Disallow: /ftc8813/LICENSE
+Disallow: /ftc8813/assets/team/
